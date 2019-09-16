@@ -1,0 +1,16 @@
+{
+  "name": "appburger",
+  "version": "1.0.0",
+  "description": "A app where it shows you places that serves burgers near you",
+  "main": "server.js",
+  "author": "Andrew Bonifacio",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "dependencies": {
+    "config": "^3.2.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
